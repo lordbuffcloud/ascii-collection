@@ -30,6 +30,7 @@ A curated, organized library of ASCII art covering animals, nature, space, tech,
 | [14-borders](14-borders/) | boxes, frames, dividers |
 | [15-text-faces](15-text-faces/) | kaomoji, emoticons, one-liners |
 | [16-misc](16-misc/) | hearts, arrows, flags, symbols |
+| [17-oneliners](17-oneliners/) | 500+ single-line ASCII art and kaomoji across 30+ themed sections |
 
 ## Usage
 
