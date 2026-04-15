@@ -4,7 +4,8 @@ Single-line ASCII art and kaomoji you can drop anywhere: chat, commit messages, 
 
 | File | Contents |
 |---|---|
-| [oneliners.txt](oneliners.txt) | 500+ one-liners across 30+ themed sections |
+| [oneliners.txt](oneliners.txt) | 500+ one-liners across 30+ themed sections (faces, creatures, combat, magic, programmer) |
+| [oneliners-vol2.txt](oneliners-vol2.txt) | 500+ more across new themes (winking, dev/git, hacker, RPG, chess, chemistry, zodiac, weather, progress bars, dividers, building blocks) |
 
 ## Sections
 
